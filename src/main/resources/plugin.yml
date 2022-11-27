@@ -1,0 +1,8 @@
+name: KeyDoor
+version: '${project.version}'
+main: com.foxdev.keydoor.KeyDoor
+api-version: 1.17
+
+commands:
+  getkey:
+    description: Geykeys
